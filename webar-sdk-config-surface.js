@@ -39,3 +39,4 @@ window.WEBAR_SDK_CONFIG = {
   "issue-img-height":"116px",
   "show-guide-view":"true",
   "show-guide-animation-url":"https://webar-sdk.blippar.com/assets/animations/Surface_Scan.json"
+  };
